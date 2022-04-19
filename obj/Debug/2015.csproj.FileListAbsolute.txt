@@ -1,0 +1,46 @@
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\EntityFramework.dll
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\MetroFramework.dll
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\System.Data.SQLite.dll
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\EntityFramework.xml
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\uretim6\Desktop\64\2015\2015\2015\obj\Debug\_2015.Form1.resources
+C:\Users\uretim6\Desktop\64\2015\2015\2015\obj\Debug\_2015.Properties.Resources.resources
+C:\Users\uretim6\Desktop\64\2015\2015\2015\obj\Debug\2015.csproj.GenerateResource.Cache
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\EPPlus.dll
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\EPPlus.xml
+C:\Users\uretim6\Desktop\64\2015\2015\2015\obj\Debug\_2015.Anasayfa.resources
+C:\Users\uretim6\Desktop\64\2015\2015\2015\obj\Debug\_2015.isemriekle.resources
+C:\Users\uretim6\Desktop\64\2015\2015\2015\obj\Debug\2015.csproj.ResolveComReference.cache
+C:\Users\uretim6\Desktop\64\2015\2015\2015\obj\Debug\_2015.Form2.resources
+C:\Users\uretim6\Desktop\64\2015\2015\2015\obj\Debug\_2015.Detay.resources
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\MetroFramework.Design.dll
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\System.Data.SQLite.xml
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\Ticari Malzeme ve Kalitesizlik Takibi.exe.config
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\Ticari Malzeme ve Kalitesizlik Takibi.exe.manifest
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\Ticari Malzeme ve Kalitesizlik Takibi.application
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\Ticari Malzeme ve Kalitesizlik Takibi.exe
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\Ticari Malzeme ve Kalitesizlik Takibi.pdb
+C:\Users\uretim6\Desktop\64\2015\2015\2015\obj\Debug\Ticari Malzeme ve Kalitesizlik Takibi.exe.manifest
+C:\Users\uretim6\Desktop\64\2015\2015\2015\obj\Debug\Ticari Malzeme ve Kalitesizlik Takibi.application
+C:\Users\uretim6\Desktop\64\2015\2015\2015\obj\Debug\Ticari Malzeme ve Kalitesizlik Takibi.exe
+C:\Users\uretim6\Desktop\64\2015\2015\2015\obj\Debug\Ticari Malzeme ve Kalitesizlik Takibi.pdb
+C:\Users\uretim6\Desktop\64\2015\2015\2015\obj\Debug\_2015.Duzenle.resources
+C:\Users\uretim6\Desktop\64\2015\2015\2015\obj\Debug\_2015.anasayfa2.resources
+C:\Users\uretim6\Desktop\64\2015\2015\2015\obj\Debug\_2015.Main.resources
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\SQLite.Interop.dll
+C:\Users\uretim6\Desktop\64\2015\2015\2015\obj\Debug\_2015.Teklif.resources
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\Newtonsoft.Json.dll
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\SQLite.Net.dll
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\SQLite.Net.Platform.Generic.dll
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\SQLite.Net.Platform.Win32.dll
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\SQLiteNetExtensions.dll
+C:\Users\uretim6\Desktop\64\2015\2015\2015\bin\Debug\Newtonsoft.Json.xml
+C:\Users\uretim6\Desktop\64\2015\2015\2015\obj\Debug\_2015.UC.resources
+C:\Users\uretim6\Desktop\64\2015\2015\2015\obj\Debug\_2015.makinecarpani.resources
+C:\Users\uretim6\Desktop\64\2015\2015\2015\obj\Debug\2015.csprojResolveAssemblyReference.cache
+C:\Users\uretim6\Desktop\64\2015\2015\2015\obj\Debug\_2015.Talep_Onayı.resources
+C:\Users\uretim6\Desktop\64\2015\2015\2015\obj\Debug\_2015.parcahazir.resources
